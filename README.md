@@ -24,7 +24,7 @@ It allows the user to add/delete contacts of his choice and also search and view
 
 
 > - Phonebook Records
-> <img src="https://github.com/Sohoxic/PHONE-DIRECTORY/blob/main/img/OP2.png" height="300" width="1000">
+> <img src="https://github.com/Sohoxic/PHONE-DIRECTORY/blob/main/img/OP2.png" height="280" width="1000">
 
 
 > - Deleting a Contact
